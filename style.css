@@ -1,0 +1,29 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+header nav{
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    display: flex;
+}
+header nav ul{
+    display: flex;
+}
+header li{
+    margin-left: 40px;
+}
+button{
+    background-color: orange;
+    border-radius: 25px;
+    width: 100px;
+    height: 30px;
+}
+.lorem1{
+    display: flex;
+}
+.pi{
+
+}
